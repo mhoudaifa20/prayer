@@ -1,0 +1,7 @@
+{
+  "name": "Smart Quran Global",
+  "description": "A premium Islamic mobile-first web experience featuring Quran reading, accurate prayer times, global community worship counters, and an AI Islamic Assistant powered by Gemini.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
